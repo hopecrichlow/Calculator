@@ -1,5 +1,3 @@
-
-
 // Grab My Elements
 var firstInput = document.querySelector('#num_one');
 var secondInput = document.querySelector('#num_two');
